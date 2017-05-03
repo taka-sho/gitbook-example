@@ -14,3 +14,6 @@
 
 .pull-right {
   display: none !important; }
+
+li {
+  margin-bottom: 15px !important; }
