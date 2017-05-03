@@ -10,4 +10,4 @@
 - [9.服装について](./main/clothes.md)
 - [10.片付けについて](./main/clean.md)
 - [11.違反及び禁止行為や禁止物について](./main/violation.md)
-- [12.原点早見表](./main/points.md)
+- [12.減点早見表](./main/points.md)
