@@ -1,5 +1,6 @@
-.search-noresults {
-  padding-top: 40px !important; }
+.search-noresults,
+.book-summary {
+  padding-top: 53px !important; }
 
 .book-header {
   z-index: 100;
