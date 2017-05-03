@@ -1,0 +1,20 @@
+{
+  "name": "agreement",
+  "version": "1.0.0",
+  "description": "{% include './SUMMARY.md' %}",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d _book"
+  },
+  "repository": "git+https://github.com/taka-sho/gitbook-example.git",
+  "keywords": [],
+  "author": "taka-sho <takasho530000@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taka-sho/gitbook-example/issues"
+  },
+  "homepage": "https://github.com/taka-sho/gitbook-example#readme",
+  "dependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
