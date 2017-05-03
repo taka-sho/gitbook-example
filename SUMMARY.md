@@ -1,0 +1,13 @@
+#第68回日吉祭参加規定
+- [1.参加するにあたって](./main/toJoin.md)
+- [2.SNS の利用について](./main/sns.md)
+- [3.企画について](./main/planning.md)
+- [4.施設の利用について](./main/useRoom.md)
+- [5.食品について](./main/eating.md)
+- [6.販売について](./main/sell.md)
+- [7.勧誘について](./main/solicitation.md)
+- [8.ポスターについて](./main/poster.md)
+- [9.服装について](./main/clothes.md)
+- [10.片付けについて](./main/clean.md)
+- [11.違反及び禁止行為や禁止物について](./main/violation.md)
+- [12.原点早見表](./main/points.md)
